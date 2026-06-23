@@ -133,13 +133,13 @@ A deep-dive workspace breakdown displaying the exact operational transition of t
     <tr>
       <td width="50%" align="center" valign="top">
         <strong>🟢 SYSTEM RUNDOWN</strong><br><br>
-        <img src="assets/4.jpg" alt="Healthy System State" width="100%">
-        <img src="assets/3.jpg" alt="Healthy System State" width="100%">
+        <img src="GridMind_AI/assets/4.jpg" alt="Healthy System State" width="100%">
+        <img src="GridMind_AI/assets/3.jpg" alt="Healthy System State" width="100%">
       </td>
       <td width="50%" align="center" valign="top">
         <strong>🟢 Quantity Measurments</strong><br><br>
-        <img src="assets/5.jpg" alt="Tripped Breaker State" width="100%">
-        <img src="assets/6.jpg" alt="Tripped Breaker State" width="100%">
+        <img src="GridMind_AI/assets/5.jpg" alt="Tripped Breaker State" width="100%">
+        <img src="GridMind_AI/assets/6.jpg" alt="Tripped Breaker State" width="100%">
       </td>
     </tr>
   </table>
