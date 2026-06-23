@@ -119,7 +119,7 @@ GridMind AI was designed and engineered by **Samrat Malla**, an Electrical Engin
 ## 📸 System Showcase & Visual Interface
 
 <p align="center">
-   <img src="assets/1.jpg" alt="GridMind AI Operation Front Page" width="70%">
+   <img src="GridMind_AI/assets/1.jpg" alt="GridMind AI Operation Front Page" width="70%">
 
 </p>
 
